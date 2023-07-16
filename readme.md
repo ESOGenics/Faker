@@ -1,5 +1,8 @@
 # Faker
 
+# This is a fork from the original
+# I will be updating and fixing bugs in this. Please feel free to start using and reporting bugs.
+
 [![Monthly Downloads](https://poser.pugx.org/fzaninotto/faker/d/monthly.png)](https://packagist.org/packages/fzaninotto/faker)
 [![Continuous Integration](https://github.com/fzaninotto/Faker/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/fzaninotto/Faker/actions)
 [![codecov](https://codecov.io/gh/fzaninotto/Faker/branch/master/graph/badge.svg)](https://codecov.io/gh/fzaninotto/Faker)
@@ -10,6 +13,7 @@ Faker is a PHP library that generates fake data for you. Whether you need to boo
 Faker is heavily inspired by Perl's [Data::Faker](http://search.cpan.org/~jasonk/Data-Faker-0.07/), and by ruby's [Faker](https://rubygems.org/gems/faker).
 
 Faker requires PHP >= 5.3.3.
+
 
 **Faker is archived**. Read the reasons behind this decision here: [https://marmelab.com/blog/2020/10/21/sunsetting-faker.html](https://marmelab.com/blog/2020/10/21/sunsetting-faker.html) 
 
