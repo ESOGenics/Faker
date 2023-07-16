@@ -1,7 +1,7 @@
 # Faker
 
-# This is a fork from the original
-# I will be updating and fixing bugs in this. Please feel free to start using and reporting bugs.
+## This is a fork from the original
+### I will be updating and fixing bugs in this. Please feel free to start using and reporting bugs.
 
 [![Monthly Downloads](https://poser.pugx.org/fzaninotto/faker/d/monthly.png)](https://packagist.org/packages/fzaninotto/faker)
 [![Continuous Integration](https://github.com/fzaninotto/Faker/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/fzaninotto/Faker/actions)
